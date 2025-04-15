@@ -1,6 +1,6 @@
 # PYTHON-PROJECTS
+
 Project Name : Weather Database Project1
-The analysis is done using Python in a *Jupyter Notebook* with visualizations and data cleaning.
 
 📌 Project Overview
 
