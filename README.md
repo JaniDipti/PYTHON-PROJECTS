@@ -20,12 +20,12 @@ This analysis focuses on understanding trends and cleaning the dataset, making i
 - `weather.xls` — The startup dataset used in the project.
 - `requirements.txt` — Python packages needed to run the notebook.
 
-- 🔧 Tools & Libraries Used for this Project:-
-- - Jupyter Notebook
+  🔧 Tools & Libraries Used for this Project:-
+- Jupyter Notebook
 - pandas
 - matplotlib
 - seaborn
-- 
+  
 
 
 This Project weather dataset is a time-series dataset that provides hourly data on weather conditions at a specific location. It includes key metrics such as temperature, dew point temperature, relative humidity, wind speed, visibility, atmospheric pressure, and overall weather conditions.
@@ -45,7 +45,7 @@ Weather trend analysis
 Time-series forecasting
 Climate-related projects
 
-Project 2 
+Project 2
 
 Project Name : London Housing Data Analysis
 This project analyzes the London Housing Dataset using Python.
